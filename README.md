@@ -10,12 +10,10 @@ DS Vendas é uma aplicação full stack web construída durante a 3ª edição d
 A aplicação consiste em rankear as os vendedores pela taxa de sucesso nas vendas, e são apresentados um dashboard com gráficos baseados nestes dados.
 
 ## Layout web
-![Web 1](https://ibb.co/t3DLrDr)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 1](https://raw.githubusercontent.com/takanage/assets/master/DS_VENDAS.PNG?token=ATJOAJ57RZXXLUQMWNBDRYTASO6QI)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://raw.githubusercontent.com/takanage/assets/master/sds3-mc.png?token=ATJOAJZPCOB6UOYZHFJWTTTASO6RU)
 
 # Tecnologias utilizadas
 ## Back end
@@ -28,7 +26,7 @@ A aplicação consiste em rankear as os vendedores pela taxa de sucesso nas vend
 - ReactJS
 - React Native
 - Apex Charts
-- Expo
+- Bootstrap
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
@@ -41,7 +39,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/takanage/projeto-sds3-takanage
 
 # entrar na pasta do projeto back end
 cd backend
@@ -55,7 +53,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/takanage/projeto-sds3-takanage
 
 # entrar na pasta do projeto front end web
 cd front-web
@@ -69,6 +67,6 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Willian Takanage
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/willian-takanage-21461b40/

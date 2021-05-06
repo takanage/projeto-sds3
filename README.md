@@ -1,19 +1,16 @@
-# Dashboard Vendas
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# DS Vendas
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/takanage/projeto-sds3/blob/master/LICENSE) 
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://takanagae-dsvendas.netlify.app/
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DS Vendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+A aplicação consiste em rankear as os vendedores pela taxa de sucesso nas vendas, e são apresentados um dashboard com gráficos baseados nestes dados.
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://ibb.co/t3DLrDr)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 

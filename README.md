@@ -10,10 +10,10 @@ DS Vendas é uma aplicação full stack web construída durante a 3ª edição d
 A aplicação consiste em rankear as os vendedores pela taxa de sucesso nas vendas, e são apresentados um dashboard com gráficos baseados nestes dados.
 
 ## Layout web
-![Web 1](https://raw.githubusercontent.com/takanage/assets/master/Img/DS_VENDAS.PNG?token=ATJOAJ22L7YF7SDFYI5LCP3ASXFV4)
+![Web 1](../master/Imagens/DS_VENDAS.PNG)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://raw.githubusercontent.com/takanage/assets/master/Img/sds3-mc.png?token=ATJOAJZXDAQYRCZ7EW62PTDASXGFW)
+![Modelo Conceitual](../master/Imagens/sds3-mc.png)
 
 # Tecnologias utilizadas
 ## Back end
